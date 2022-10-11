@@ -47,8 +47,6 @@
             NAME:<asp:TextBox runat="server" ID="testName"></asp:TextBox> <br />
             <asp:Button runat="server" ID="btnRegister" OnClick="btnRegister_Click" />
         </div>--%>
-
-
         <div class="loginDiv">
             <div style="text-align: center; margin-top: 150px;">
                 <div class="mainImg">
@@ -56,7 +54,6 @@
                 </div>
 
                 <div class="clear"></div>
-
                 <div class="loginIdBox">
                     <asp:TextBox ID="id" runat="server" ClientIDMode="Static" CssClass="id" placeholder="아이디"></asp:TextBox>
                 </div>

@@ -54,7 +54,6 @@ namespace NeoWorld
 
 
 
-
                     Response.Redirect(string.Format("shop/shoppingList.aspx"));
                 }
                 else
